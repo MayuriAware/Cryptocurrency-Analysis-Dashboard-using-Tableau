@@ -16,7 +16,7 @@ This project explores cryptocurrency data through a fully interactive Tableau da
 - Enable data-driven insights for traders and investors
 - Present clear, actionable visuals for easy consumption
 
-## 👤 Author
+## Author
 Mayuri Mahesh Aware
 awaremayuri996@gmail.com
 
